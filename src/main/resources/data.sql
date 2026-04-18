@@ -8,6 +8,16 @@ INSERT INTO tb_category (name) VALUES ('Cama, mesa e banho');
 INSERT INTO tb_category (name) VALUES ('Eletrodomésticos');
 INSERT INTO tb_category (name) VALUES ('Petshop');
 INSERT INTO tb_category (name) VALUES ('Smartphones');
+INSERT INTO tb_category (name) VALUES ('Teste11');
+INSERT INTO tb_category (name) VALUES ('Teste12');
+INSERT INTO tb_category (name) VALUES ('Teste13');
+INSERT INTO tb_category (name) VALUES ('Teste14');
+INSERT INTO tb_category (name) VALUES ('Teste15');
+INSERT INTO tb_category (name) VALUES ('Teste16');
+INSERT INTO tb_category (name) VALUES ('Teste17');
+INSERT INTO tb_category (name) VALUES ('Teste18');
+INSERT INTO tb_category (name) VALUES ('Teste19');
+INSERT INTO tb_category (name) VALUES ('Teste20');
 
 
 /* 
